@@ -1,8 +1,6 @@
 #ifndef TESTACONE_H_
 #define TESTACONE_H_
 #include "Cone.h"
-#include <iostream>
-using namespace std;
 
 class TestaCone{
     private:

@@ -46,7 +46,7 @@ double Cone::areaLateral()const{
 }
 
 double Cone::areaTotal()const{
-    return (3.14*raio*geratriz()+raio);
+    return (3.14*raio*(geratriz()+raio));
 }
 
 double Cone::volume()const{

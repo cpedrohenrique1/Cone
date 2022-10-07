@@ -1,8 +1,10 @@
 #include <math.h>
+#include <iostream>
+using namespace std;
 #include "TestaCone.h"
 
 int main(){
     TestaCone Obj;
-        Obj.menu();
+    Obj.menu();
     return 0;
 }
